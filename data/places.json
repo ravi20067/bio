@@ -1,0 +1,577 @@
+{
+    "places": [
+        {
+            "id": "yamunotri_road_barkot",
+            "name": "Yamunotri Road, Barkot, India",
+            "coordinates": { "lat": 30.8149, "lng": 78.2058 },
+            "image": "../assets/images/yamnotriroad/IMG_3326.jpg",
+            "description": "A picturesque route leading to the Yamunotri shrine, surrounded by mountains and rivers.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/yamnotriroad/IMG_1746.jpg",
+                "../assets/images/yamnotriroad/IMG_1747.jpg",
+                "../assets/images/yamnotriroad/IMG_1761.jpg",
+                "../assets/images/yamnotriroad/IMG_2688.jpg",
+                "../assets/images/yamnotriroad/IMG_2690.jpg",
+                "../assets/images/yamnotriroad/IMG_3172.jpg",
+                "../assets/images/yamnotriroad/IMG_3175.jpg",
+                "../assets/images/yamnotriroad/IMG_3261.jpg",
+                "../assets/images/yamnotriroad/IMG_3262.jpg",
+                "../assets/images/yamnotriroad/IMG_3264.jpg",
+                "../assets/images/yamnotriroad/IMG_3285.jpg",
+                "../assets/images/yamnotriroad/IMG_3295.jpg",
+                "../assets/images/yamnotriroad/IMG_3325.jpg",
+                "../assets/images/yamnotriroad/IMG_3355.jpg",
+                "../assets/images/yamnotriroad/IMG_3368.jpg",
+                "../assets/images/yamnotriroad/IMG_3370.jpg"
+            ],            
+            "timeline": { "year": "2025", "month": "January", "startDate": "1", "endDate": "3" }
+        },
+        {
+            "id": "lakha_mandal",
+            "name": "Lakha Mandal, India",
+            "coordinates": { "lat": 30.6520, "lng": 78.0273 },
+            "image": "../assets/images/lakha/IMG_4172.jpg",
+            "description": "An ancient temple complex known for its historical significance and Shivlinga structures.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/lakha/IMG_4171.jpg",
+                "../assets/images/lakha/IMG_4196.jpg",
+                "../assets/images/lakha/IMG_4582.jpg",
+                "../assets/images/lakha/IMG_4642.jpg"
+            ],            
+            "timeline": { "year": "2025", "month": "March", "startDate": "9", "endDate": "10" }
+        },
+        {
+            "id": "yamunotri",
+            "name": "Yamunotri, India",
+            "coordinates": { "lat": 31.0140, "lng": 78.4600 },
+            "image": "../assets/images/yamnotri/IMG_4930.jpg",
+            "description": "A sacred pilgrimage site, the origin of the Yamuna River.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/yamnotri/IMG_4222.jpg",
+                "../assets/images/yamnotri/IMG_4227.JPG",
+                "../assets/images/yamnotri/IMG_4745.jpg",
+                "../assets/images/yamnotri/IMG_4773.jpg",
+                "../assets/images/yamnotri/IMG_4779.jpg",
+                "../assets/images/yamnotri/IMG_4822.jpg",
+                "../assets/images/yamnotri/IMG_4842.jpg",
+                "../assets/images/yamnotri/IMG_4846.jpg",
+                "../assets/images/yamnotri/IMG_4849.jpg",
+                "../assets/images/yamnotri/IMG_4883.jpg",
+                "../assets/images/yamnotri/IMG_4923.jpg",
+                "../assets/images/yamnotri/IMG_4925.jpg",
+                "../assets/images/yamnotri/IMG_4945.jpg"
+            ],            
+            "timeline": { "year": "2025", "month": "March", "startDate": "10", "endDate": "12" }
+        },
+        {
+            "id": "qutub_minar",
+            "name": "Qutub Minar, India",
+            "coordinates": { "lat": 28.5244, "lng": 77.1855 },
+            "image":"../assets/images/qutubminar/IMG_3193.JPG",
+            "description": "A UNESCO World Heritage Site, the tallest brick minaret in the world, built in the 12th century.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/qutubminar/IMG_2031.JPG",
+                "../assets/images/qutubminar/IMG_3195.JPG",
+                "../assets/images/qutubminar/IMG_3197.JPG",
+                "../assets/images/qutubminar/IMG_3202.JPG",
+                "../assets/images/qutubminar/IMG_3240.JPG",
+                "../assets/images/qutubminar/IMG_3244.JPG",
+                "../assets/images/qutubminar/IMG_3245.JPG",
+                "../assets/images/qutubminar/IMG_3252.JPG"
+            ],            
+            "timeline": { "year": "2016", "month": "October", "startDate": "13", "endDate": "17" }
+        },
+        {
+            "id": "agra",
+            "name": "Agra, India",
+            "coordinates": { "lat": 27.1767, "lng": 78.0081 },
+            "image": "../assets/images/agra/IMG_6961.jpg",
+            "description": "Home to the iconic Taj Mahal, Agra is a city rich in Mughal heritage, featuring grand monuments like the Agra Fort and Fatehpur Sikri.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/agra/IMG_6948.jpg",
+                "../assets/images/agra/IMG_6951.jpg",
+                "../assets/images/agra/IMG_6952.jpg",
+                "../assets/images/agra/IMG_6953.jpg",
+                "../assets/images/agra/IMG_6956.jpg",
+                "../assets/images/agra/IMG_6970.jpg",
+                "../assets/images/agra/IMG_7009.jpg",
+                "../assets/images/agra/IMG_7037.jpg",
+                "../assets/images/agra/IMG_7059.jpg",
+                "../assets/images/agra/IMG_7064.jpg",
+                "../assets/images/agra/IMG_7071.jpg",
+                "../assets/images/agra/IMG_7072.jpg",
+                "../assets/images/agra/IMG_7081.jpg",
+                "../assets/images/agra/IMG_7099.jpg",
+                "../assets/images/agra/IMG_7103.jpg",
+                "../assets/images/agra/IMG_7104.jpg",
+                "../assets/images/agra/IMG_7105.jpg",
+                "../assets/images/agra/IMG_7130.jpg",
+                "../assets/images/agra/IMG_7131.jpg",
+                "../assets/images/agra/IMG_7135.jpg",
+                "../assets/images/agra/IMG_7168.jpg",
+                "../assets/images/agra/IMG_7240.jpg",
+                "../assets/images/agra/IMG_7278.jpg",
+                "../assets/images/agra/IMG_7281.jpg",
+                "../assets/images/agra/IMG_7282.jpg"
+            ],
+            "timeline": { "year": "2022", "month": "August", "startDate": "2", "endDate": "4" }
+        },
+        {
+            "id": "akshardham_lotus",
+            "name": "Akshardham and Lotus Temple, India",
+            "coordinates": { "lat": 28.6127, "lng": 77.2773 },
+            "image": "../assets/images/akshardham/IMG_7472.jpg",
+            "description": "A magnificent Hindu temple complex showcasing Indian culture and architecture alongside the iconic Lotus Temple, a place of meditation open to all.",
+            "type": "travelled",
+            "gallery":[
+                "../assets/images/akshardham/IMG_7347.jpg",
+                "../assets/images/akshardham/IMG_7348.jpg",
+                "../assets/images/akshardham/IMG_7396.jpg",
+                "../assets/images/akshardham/IMG_7473.jpg"
+            ],
+            "timeline": { "year": "2022", "month": "August", "startDate": "10", "endDate": "13" }
+        },
+        {
+            "id": "bhardarraj",
+            "name": "Bhardarraj Temple, India",
+            "coordinates": { "lat": 30.3850, "lng": 78.0900 },
+            "image": "../assets/images/bhardaraj/IMG_1164.jpg",
+            "description": "A serene trekking destination with a temple dedicated to Sage Bhardwaj, offering panoramic views and tranquil surroundings.",
+            "type": "travelled",
+            "gallery":[
+                "../assets/images/bhardaraj/IMG_1183.jpg",
+                "../assets/images/bhardaraj/IMG_1220.jpg",
+                "../assets/images/bhardaraj/IMG_1225.jpg",
+                "../assets/images/bhardaraj/IMG_1233.jpg",
+                "../assets/images/bhardaraj/IMG_9798.jpg",
+                "../assets/images/bhardaraj/IMG_9801.jpg",
+                "../assets/images/bhardaraj/IMG_9803.jpg",
+                "../assets/images/bhardaraj/IMG_9843.jpg",
+                "../assets/images/bhardaraj/IMG_9853.jpg"
+            ],
+            "timeline": { "year": "2024", "month": "October", "startDate": "15", "endDate": "17" }
+        },
+        {
+            "id": "noonthan",
+            "name": "Noonthan, Nepal",
+            "coordinates": { "lat": 27.6105, "lng": 85.2897 },
+            "image": "../assets/images/noonthan/2.png",
+            "description": "A picturesque village in Nepal, offering insights into local culture and stunning natural landscapes.",
+            "type": "travelled",
+            "gallery": ["../assets/images/noonthan/1.png",
+            "../assets/images/noonthan/4.png"
+        ],
+            "timeline": { "year": "2024", "month": "November", "startDate": "20", "endDate": "22" }
+        },
+        {
+            "id": "sindhuli",
+            "name": "Sindhuli, Nepal",
+            "coordinates": { "lat": 27.2500, "lng": 85.9667 },
+            "image": "../assets/images/noonthan/3.png",
+            "description": "A historical town known for the Sindhuli Gadhi fortress and scenic beauty, offering rich cultural experiences.",
+            "type": "travelled",
+            "gallery": [],
+            "timeline": { "year": "2025", "month": "February", "startDate": "13", "endDate": "14" }
+        },
+        {
+            "id": "cloud_end",
+            "name": "Cloud End, India",
+            "coordinates": { "lat": 30.4215, "lng": 78.0081 },
+            "image": "../assets/images/cloudend/IMG_8649_Original.JPG",
+            "description": "A peaceful retreat at the end of Mussoorie, offering stunning views and dense forests.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/cloudend/IMG_1144.jpg",
+                "../assets/images/cloudend/IMG_8631_Original.JPG",
+                "../assets/images/cloudend/IMG_9590_Original.jpg",
+                "../assets/images/cloudend/IMG_9626_Original.jpg",
+                "../assets/images/cloudend/IMG_9649_Original.jpg",
+                "../assets/images/cloudend/IMG_9668.jpg",
+                "../assets/images/cloudend/IMG_9694.jpg",
+                "../assets/images/cloudend/IMG_9696.jpg",
+                "../assets/images/cloudend/IMG_9701.jpg",
+                "../assets/images/cloudend/IMG_9734.jpg",
+                "../assets/images/cloudend/IMG_9736.jpg",
+                "../assets/images/cloudend/IMG_9760.jpg"
+            ],            
+            "timeline": { "year": "2024", "month": "October", "startDate": "10", "endDate": "11" }
+        },
+        {
+            "id": "dunga_valley",
+            "name": "Dunga Valley, India",
+            "coordinates": { "lat": 30.5143, "lng": 78.0693 },
+            "image": "../assets/images/dunga/IMG_8476.jpg",
+            "description": "A hidden valley near Mussoorie, known for trekking and nature trails.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/dunga/IMG_8434.jpg",
+                "../assets/images/dunga/IMG_8435.jpg",
+                "../assets/images/dunga/IMG_8475.jpg",
+                "../assets/images/dunga/IMG_8478.jpg",
+                "../assets/images/dunga/IMG_8494.jpg"
+            ],            
+            "timeline": { "year": "2024", "month": "August", "startDate": "4", "endDate": "5" }
+        },
+        {
+            "id": "gucci_panni",
+            "name": "Gucci Panni, India",
+            "coordinates": { "lat": 30.4680, "lng": 78.0665 },
+            "image": "../assets/images/guccipanni/IMG_8108.jpg",
+            "description": "A lesser-known but beautiful waterfall in Uttarakhand, perfect for a peaceful getaway.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/guccipanni/1.jpg",
+                "../assets/images/guccipanni/2.jpg",
+                "../assets/images/guccipanni/3.jpg",
+                "../assets/images/guccipanni/IMG_8114.jpg"
+            ],            
+            "timeline": { "year": "2025", "month": "July", "startDate": "20", "endDate": "21" }
+        },
+        {
+            "id": "haridwar",
+            "name": "Haridwar, India",
+            "coordinates": { "lat": 29.9457, "lng": 78.1642 },
+            "image": "../assets/images/haridwar/IMG_3302.jpg",
+            "description": "A sacred city on the Ganges River, famous for the Ganga Aarti at Har Ki Pauri.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/haridwar/IMG_3256.jpg",
+                "../assets/images/haridwar/IMG_3265.jpg",
+                "../assets/images/haridwar/IMG_3303.jpg",
+                "../assets/images/haridwar/IMG_3304.jpg",
+                "../assets/images/haridwar/IMG_3309.jpg"
+            ],            
+            "timeline": { "year": "2025", "month": "September", "startDate": "15", "endDate": "16" }
+        },
+        {
+            "id": "harshil",
+            "name": "Harsil, India",
+            "coordinates": { "lat": 30.7802, "lng": 78.7051 },
+            "image": "../assets/images/harshil/IMG_3147.jpg",
+            "description": "A picturesque village near Gangotri, known for its apple orchards and serene beauty.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/harshil/IMG_1741.jpg",
+                "../assets/images/harshil/IMG_1743.jpg",
+                "../assets/images/harshil/IMG_1744.jpg",
+                "../assets/images/harshil/IMG_3112.jpg",
+                "../assets/images/harshil/IMG_3129.jpg",
+                "../assets/images/harshil/IMG_3135.jpg",
+                "../assets/images/harshil/IMG_3146.jpg",
+                "../assets/images/harshil/IMG_3154.jpg",
+                "../assets/images/harshil/IMG_3161.jpg",
+                "../assets/images/harshil/IMG_3162.jpg"
+            ],
+            "timeline": { "year": "2025", "month": "December", "startDate": "15", "endDate": "17" }
+        },
+        {
+            "id": "iskcon_temple",
+            "name": "ISKCON Temple, India",
+            "coordinates": { "lat": 28.5623, "lng": 77.2604 },
+            "image": "../assets/images/iskontemple/IMG_3223.jpg",
+            "description": "A famous temple dedicated to Lord Krishna, known for its spiritual atmosphere and beautiful architecture.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/iskontemple/IMG_3092.jpg",
+                "../assets/images/iskontemple/IMG_3103.jpg",
+                "../assets/images/iskontemple/IMG_3104.jpg",
+                "../assets/images/iskontemple/IMG_3106.jpg",
+                "../assets/images/iskontemple/IMG_3120.jpg",
+                "../assets/images/iskontemple/IMG_3123.jpg",
+                "../assets/images/iskontemple/IMG_3124.jpg",
+                "../assets/images/iskontemple/IMG_3127.jpg",
+                "../assets/images/iskontemple/IMG_3221.jpg"
+            ],
+            "timeline": { "year": "2023", "month": "September", "startDate": "15", "endDate": "16" }
+        },
+        {
+            "id": "jammu",
+            "name": "Jammu, India",
+            "coordinates": { "lat": 32.7266, "lng": 74.8570 },
+            "image": "../assets/images/jammu/IMG_3763.jpg" ,
+            "description": "The winter capital of Jammu and Kashmir, famous for its temples and scenic beauty.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/jammu/IMG_3715.jpg",
+                "../assets/images/jammu/IMG_3716.jpg",
+                "../assets/images/jammu/IMG_3717.jpg",
+                "../assets/images/jammu/IMG_3722.jpg",
+                "../assets/images/jammu/IMG_3727.jpg",
+                "../assets/images/jammu/IMG_3728.jpg",
+                "../assets/images/jammu/IMG_3729.jpg",
+                "../assets/images/jammu/IMG_3730.jpg",
+                "../assets/images/jammu/IMG_3761.jpg"
+            ],
+            "timeline": { "year": "2023", "month": "November", "startDate": "3", "endDate": "5" }
+        },
+        {
+            "id": "katra",
+            "name": "Katra, India",
+            "coordinates": { "lat": 32.9910, "lng": 74.9310 },
+            "image": "../assets/images/katra/IMG_3872.jpg",
+            "description": "The base for the famous Vaishno Devi pilgrimage, surrounded by beautiful hills.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/katra/IMG_3785.jpg",
+                "../assets/images/katra/IMG_3789.jpg",
+                "../assets/images/katra/IMG_3803.jpg",
+                "../assets/images/katra/IMG_3804.jpg",
+                "../assets/images/katra/IMG_3807.jpg",
+                "../assets/images/katra/IMG_3808.jpg",
+                "../assets/images/katra/IMG_3810.jpg",
+                "../assets/images/katra/IMG_3811.jpg",
+                "../assets/images/katra/IMG_3815.jpg",
+                "../assets/images/katra/IMG_3817.jpg",
+                "../assets/images/katra/IMG_3821.jpg",
+                "../assets/images/katra/IMG_3823.jpg",
+                "../assets/images/katra/IMG_3834.jpg",
+                "../assets/images/katra/IMG_3847.jpg",
+                "../assets/images/katra/IMG_3848.jpg",
+                "../assets/images/katra/IMG_3865.jpg",
+                "../assets/images/katra/IMG_3873.jpg",
+                "../assets/images/katra/IMG_3875.jpg",
+                "../assets/images/katra/IMG_3880.jpg",
+                "../assets/images/katra/IMG_3890.jpg",
+                "../assets/images/katra/IMG_3906.jpg",
+                "../assets/images/katra/IMG_3914.jpg",
+                "../assets/images/katra/IMG_3917.jpg",
+                "../assets/images/katra/IMG_3922.jpg"
+              ],
+            "timeline": { "year": "2023", "month": "November", "startDate": "10", "endDate": "15" }
+        },
+        {
+            "id": "koti",
+            "name": "Koti, India",
+            "coordinates": { "lat": 30.4405, "lng": 78.2083 },
+            "image": "../assets/images/koti/1.JPG",
+            "description": "A serene hilltop destination near Mussoorie, offering breathtaking views and peaceful surroundings.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/koti/IMG_7096.JPG",
+                "../assets/images/koti/IMG_7115.JPG",
+                "../assets/images/koti/IMG_7210.JPG",
+                "../assets/images/koti/IMG_7252.JPG",
+                "../assets/images/koti/IMG_7346.JPG",
+                "../assets/images/koti/IMG_7396.JPG",
+                "../assets/images/koti/IMG_7397.JPG",
+                "../assets/images/koti/IMG_7398.JPG",
+                "../assets/images/koti/IMG_7444.JPG"
+              ],
+            "timeline": { "year": "2024", "month": "August", "startDate": "25", "endDate": "26" }
+        },
+        {
+            "id": "mussoorie",
+            "name": "Mussoorie, India",
+            "coordinates": { "lat": 30.4590, "lng": 78.0660 },
+            "image": "../assets/images/mussurienight/IMG_1044.jpg",
+            "description": "The Queen of Hills, known for its scenic beauty, Mall Road, and Kempty Falls.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/mussurienight/IMG_1030.jpg",
+                "../assets/images/mussurienight/IMG_1035.jpg",
+                "../assets/images/mussurienight/IMG_1036.jpg",
+                "../assets/images/mussurienight/IMG_1040.jpg",
+                "../assets/images/mussurienight/IMG_1041.jpg",
+                "../assets/images/mussurienight/IMG_1045.jpg"
+              ],
+            "timeline": { "year": "2024", "month": "August", "startDate": "29", "endDate": "30" }
+        },
+        {
+            "id": "new_tehri",
+            "name": "New Tehri, India",
+            "coordinates": { "lat": 30.3800, "lng": 78.4800 },
+            "image": "../assets/images/newtehri/IMG_1646.jpg",
+            "description": "A modern town near Tehri Lake, offering adventure sports and scenic views.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/newtehri/IMG_1606.jpg",
+                "../assets/images/newtehri/IMG_1612.jpg",
+                "../assets/images/newtehri/IMG_1624.JPG",
+                "../assets/images/newtehri/IMG_1684.jpg",
+                "../assets/images/newtehri/IMG_1689.jpg",
+                "../assets/images/newtehri/IMG_1690.jpg",
+                "../assets/images/newtehri/IMG_1699.jpg",
+                "../assets/images/newtehri/IMG_1700.jpg",
+                "../assets/images/newtehri/IMG_2599.jpg",
+                "../assets/images/newtehri/IMG_3071.jpg",
+                "../assets/images/newtehri/IMG_3072.jpg",
+                "../assets/images/newtehri/IMG_3084.jpg",
+                "../assets/images/newtehri/IMG_3094.jpg"
+              ],
+            "timeline": { "year": "2024", "month": "December", "startDate": "25", "endDate": "27" }
+        },
+        {
+            "id": "rishikesh",
+            "name": "Rishikesh, India",
+            "coordinates": { "lat": 30.0869, "lng": 78.2676 },
+            "image": "../assets/images/rishikesh/IMG_8713.jpg",
+            "description": "A spiritual hub known for yoga, the Ganges River, and adventure activities like river rafting.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/rishikesh/IMG_8679.jpg",
+                "../assets/images/rishikesh/IMG_8683.jpg",
+                "../assets/images/rishikesh/IMG_8701.jpg",
+                "../assets/images/rishikesh/IMG_8750.jpg",
+                "../assets/images/rishikesh/IMG_8784.jpg",
+                "../assets/images/rishikesh/IMG_8786.jpg"
+              ],
+            "timeline": { "year": "2024", "month": "September", "startDate": "19", "endDate": "21" }
+        },
+        {
+            "id": "shastradhara",
+            "name": "Shastradhara, India",
+            "coordinates": { "lat": 30.3624, "lng": 78.1446 },
+            "image": "../assets/images/shastdhara/IMG_1021.jpg",
+            "description": "A famous natural sulphur spring in Dehradun, known for its medicinal properties and scenic beauty.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/shastdhara/1.png",
+                "../assets/images/shastdhara/IMG_1023.jpg"
+              ],
+            "timeline": { "year": "2024", "month": "September", "startDate": "1", "endDate": "2" }
+        },
+        {
+            "id": "vrindavan",
+            "name": "Vrindavan, India",
+            "coordinates": { "lat": 27.5650, "lng": 77.6593 },
+            "image": "../assets/images/vrindavan/IMG_3960.jpg",
+            "description": "A sacred town associated with Lord Krishna, famous for its temples and devotional atmosphere.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/vrindavan/IMG_3951.jpg",
+                "../assets/images/vrindavan/IMG_3964.jpg",
+                "../assets/images/vrindavan/IMG_3991.jpg",
+                "../assets/images/vrindavan/IMG_4003.jpg",
+                "../assets/images/vrindavan/IMG_4006.jpg",
+                "../assets/images/vrindavan/IMG_4023.jpg",
+                "../assets/images/vrindavan/IMG_4054.jpg",
+                "../assets/images/vrindavan/IMG_4059.jpg",
+                "../assets/images/vrindavan/IMG_4065.jpg",
+                "../assets/images/vrindavan/IMG_4096.jpg",
+                "../assets/images/vrindavan/IMG_4097.jpg",
+                "../assets/images/vrindavan/IMG_4104.jpg",
+                "../assets/images/vrindavan/IMG_4106.jpg",
+                "../assets/images/vrindavan/IMG_4113.jpg",
+                "../assets/images/vrindavan/IMG_4123.jpg",
+                "../assets/images/vrindavan/IMG_4135.jpg",
+                "../assets/images/vrindavan/IMG_4143.jpg",
+                "../assets/images/vrindavan/IMG_4166.jpg",
+                "../assets/images/vrindavan/IMG_4168.jpg"
+              ],
+            "timeline": { "year": "2023", "month": "November", "startDate": "7", "endDate": "11" }
+        },
+        {
+            "id": "uttarkashi",
+            "name": "Uttarkashi, India",
+            "coordinates": { "lat": 30.7290, "lng": 78.4431 },
+            "image": "../assets/images/uttarkashi/IMG_3106.jpg",
+            "description": "A spiritual town on the banks of the Bhagirathi River, gateway to Gangotri.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/uttarkashi/IMG_1713.jpg",
+                "../assets/images/uttarkashi/IMG_3103.jpg",
+                "../assets/images/uttarkashi/IMG_3107.jpg"
+            ],
+            "timeline": { "year": "2025", "month": "December", "startDate": "25", "endDate": "30" }
+        },
+        {
+            "id": "zoo_new_delhi",
+            "name": "National Zoological Park, Delhi",
+            "coordinates": { "lat": 28.6081, "lng": 77.2488 },
+            "image": "../assets/images/zoo/IMG_3332.jpg",
+            "description": "A large zoological park in Delhi, home to various wildlife species and a popular tourist attraction.",
+            "type": "travelled",
+            "gallery": [
+                "../assets/images/zoo/IMG_3336.jpg",
+                "../assets/images/zoo/IMG_3341.jpg",
+                "../assets/images/zoo/IMG_3349.jpg",
+                "../assets/images/zoo/IMG_3350.jpg",
+                "../assets/images/zoo/IMG_3357.jpg",
+                "../assets/images/zoo/IMG_3361.jpg",
+                "../assets/images/zoo/IMG_3366.jpg",
+                "../assets/images/zoo/IMG_3383.jpg",
+                "../assets/images/zoo/IMG_3386.jpg",
+                "../assets/images/zoo/IMG_3387.jpg",
+                "../assets/images/zoo/IMG_3395.jpg",
+                "../assets/images/zoo/IMG_3399.jpg",
+                "../assets/images/zoo/IMG_3400.jpg"
+            ],            
+            "timeline": { "year": "2023", "month": "September", "startDate": "23", "endDate": "24" }
+        },
+        {
+            "id": "kedarnath",
+            "name": "Kedarnath, India",
+            "coordinates": { "lat": 30.7346, "lng": 79.0669 },
+            "image": "../assets/images/kedarnath.jpeg",
+            "description": "A famous pilgrimage site in the Himalayas, known for the Kedarnath Temple dedicated to Lord Shiva.",
+            "type": "wishlist",
+            "gallery": ["assets/images/kedarnath1.jpg", "assets/images/kedarnath2.jpg"],
+            "timeline": { "year": "2025", "month": "May", "startDate": "20", "endDate": "30" }
+        },
+        {
+            "id": "ladakh",
+            "name": "Ladakh, India",
+            "coordinates": { "lat": 34.2268, "lng": 77.5619 },
+            "image": "../assets/images/ladakh.jpeg",
+            "description": "A breathtaking cold desert region in northern India, famous for its scenic landscapes and monasteries.",
+            "type": "wishlist",
+            "gallery": ["assets/images/ladakh1.jpg", "assets/images/ladakh2.jpg"],
+            "timeline": { "year": "2025", "month": "November", "startDate": "24", "endDate": "4" }
+        },
+        {
+            "id": "goa",
+            "name": "Goa, India",
+            "coordinates": { "lat": 15.2993, "lng": 74.1240 },
+            "image": "../assets/images/goa.jpeg",
+            "description": "A beach paradise in India, famous for its nightlife, Portuguese heritage, and water sports.",
+            "type": "wishlist",
+            "gallery": ["assets/images/goa1.jpg", "assets/images/goa2.jpg"],
+            "timeline": { "year": "2026", "month": "February", "startDate": "23", "endDate": "4" }
+        },
+        {
+            "id": "kerala",
+            "name": "Kerala, India",
+            "coordinates": { "lat": 10.8505, "lng": 76.2711 },
+            "image": "../assets/images/kerela.jpeg",
+            "description": "God’s Own Country, known for its backwaters, lush greenery, and Ayurvedic retreats.",
+            "type": "wishlist",
+            "gallery": ["assets/images/kerala1.jpg", "assets/images/kerala2.jpg"],
+            "timeline": { "year": "2026", "month": "March", "startDate": "25", "endDate": "30" }
+        },
+        {
+            "id": "tamil_nadu",
+            "name": "Tamil Nadu, India",
+            "coordinates": { "lat": 11.1271, "lng": 78.6569 },
+            "image": "../assets/images/tamilnaidu.jpeg",
+            "description": "A culturally rich state in southern India, known for temples, beaches, and hill stations like Ooty.",
+            "type": "wishlist",
+            "gallery": ["assets/images/tamil_nadu1.jpg", "assets/images/tamil_nadu2.jpg"],
+            "timeline": { "year": "2026", "month": "May", "startDate": "23", "endDate": "2" }
+        },
+        {
+            "id": "thailand",
+            "name": "Thailand",
+            "coordinates": { "lat": 15.8700, "lng": 100.9925 },
+            "image": "../assets/images/thailand.jpeg",
+            "description": "A popular travel destination known for tropical beaches, rich culture, and vibrant nightlife.",
+            "type": "wishlist",
+            "gallery": ["assets/images/thailand1.jpg", "assets/images/thailand2.jpg"],
+            "timeline": { "year": "2029", "month": "February", "startDate": "7", "endDate": "17" }
+        },
+        {
+            "id": "dubai",
+            "name": "Dubai, UAE",
+            "coordinates": { "lat": 25.276987, "lng": 55.296249 },
+            "image": "../assets/images/dubai.jpeg",
+            "description": "A futuristic city in the UAE, known for luxury shopping, skyscrapers, and desert adventures.",
+            "type": "wishlist",
+            "gallery": ["assets/images/dubai1.jpg", "assets/images/dubai2.jpg"],
+            "timeline": { "year": "2030", "month": "March", "startDate": "23", "endDate": "12" }
+        }
+    ]
+}

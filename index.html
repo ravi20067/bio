@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Travel Influencer Blog</title>
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <link rel="icon" type="image/x-icon" href="https://www.google.com/imgres?q=favicon%20generator&imgurl=https%3A%2F%2Frealfavicongenerator.net%2Ffavicon.svg&imgrefurl=https%3A%2F%2Frealfavicongenerator.net%2F&docid=k4a1tpK4S9X-XM&tbnid=x1yNeLloqehbpM&vet=12ahUKEwii98j_2I6MAxVYqWMGHW8iKg4QM3oECB0QAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwii98j_2I6MAxVYqWMGHW8iKg4QM3oECB0QAA">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+  <!-- Replace this with a working FontAwesome CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body class="bg-dark text-light">
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-black fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">My Travel Journey</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="#map">Map</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/about.html">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <header class="hero">
+    <div class="hero-overlay"></div>
+    <div class="hero-content text-center text-white">
+      <h1 class="display-3 fw-bold">Welcome to My Travel Journey</h1>
+      <p class="lead">Explore the world through my eyes</p>
+      <a href="#map" class="btn btn-primary btn-lg">Explore Now</a>
+    </div>
+  </header>
+
+  <!-- Wishlist & Traveled Places Section -->
+  <section class="container my-5">
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <h2 class="text-primary">🌍 Already Traveled Places</h2>
+        <ul id="traveled-list" class="list-group"></ul>
+      </div>
+      <div class="col-md-6 mb-4">
+        <h2 class="text-warning">✈️ Future Travel Wishlist</h2>
+        <ul id="wishlist" class="list-group"></ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Interactive Map -->
+  <section id="map" class="container my-5">
+    <h2 class="text-center mb-4">🌎 My Travel Map</h2>
+    <div class="map-container bg-dark rounded p-3">
+      <div id="travel-map"></div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-black text-center py-3">
+    <p class="mb-0">&copy; 2025 My Travel Journey. All rights reserved.</p>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8gW7O4_GOIajFiI17vfOw58EUA_oJh9o&callback=initMap&libraries=marker&v=beta&loading=async" async defer></script>
+  <script src="assets/js/map.js"></script>
+  <script src="assets/js/main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
