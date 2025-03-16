@@ -510,7 +510,7 @@
             "image": "../assets/images/kedarnath.jpeg",
             "description": "A famous pilgrimage site in the Himalayas, known for the Kedarnath Temple dedicated to Lord Shiva.",
             "type": "wishlist",
-            "gallery": ["assets/images/kedarnath1.jpg", "assets/images/kedarnath2.jpg"],
+            "gallery": [],
             "timeline": { "year": "2025", "month": "May", "startDate": "20", "endDate": "30" }
         },
         {
@@ -520,7 +520,7 @@
             "image": "../assets/images/ladakh.jpeg",
             "description": "A breathtaking cold desert region in northern India, famous for its scenic landscapes and monasteries.",
             "type": "wishlist",
-            "gallery": ["assets/images/ladakh1.jpg", "assets/images/ladakh2.jpg"],
+            "gallery": [],
             "timeline": { "year": "2025", "month": "November", "startDate": "24", "endDate": "4" }
         },
         {
@@ -530,7 +530,7 @@
             "image": "../assets/images/goa.jpeg",
             "description": "A beach paradise in India, famous for its nightlife, Portuguese heritage, and water sports.",
             "type": "wishlist",
-            "gallery": ["assets/images/goa1.jpg", "assets/images/goa2.jpg"],
+            "gallery": [],
             "timeline": { "year": "2026", "month": "February", "startDate": "23", "endDate": "4" }
         },
         {
@@ -540,7 +540,7 @@
             "image": "../assets/images/kerela.jpeg",
             "description": "God’s Own Country, known for its backwaters, lush greenery, and Ayurvedic retreats.",
             "type": "wishlist",
-            "gallery": ["assets/images/kerala1.jpg", "assets/images/kerala2.jpg"],
+            "gallery": [],
             "timeline": { "year": "2026", "month": "March", "startDate": "25", "endDate": "30" }
         },
         {
@@ -550,7 +550,7 @@
             "image": "../assets/images/tamilnaidu.jpeg",
             "description": "A culturally rich state in southern India, known for temples, beaches, and hill stations like Ooty.",
             "type": "wishlist",
-            "gallery": ["assets/images/tamil_nadu1.jpg", "assets/images/tamil_nadu2.jpg"],
+            "gallery": [],
             "timeline": { "year": "2026", "month": "May", "startDate": "23", "endDate": "2" }
         },
         {
@@ -560,7 +560,7 @@
             "image": "../assets/images/thailand.jpeg",
             "description": "A popular travel destination known for tropical beaches, rich culture, and vibrant nightlife.",
             "type": "wishlist",
-            "gallery": ["assets/images/thailand1.jpg", "assets/images/thailand2.jpg"],
+            "gallery": [],
             "timeline": { "year": "2029", "month": "February", "startDate": "7", "endDate": "17" }
         },
         {
@@ -570,7 +570,7 @@
             "image": "../assets/images/dubai.jpeg",
             "description": "A futuristic city in the UAE, known for luxury shopping, skyscrapers, and desert adventures.",
             "type": "wishlist",
-            "gallery": ["assets/images/dubai1.jpg", "assets/images/dubai2.jpg"],
+            "gallery": [],
             "timeline": { "year": "2030", "month": "March", "startDate": "23", "endDate": "12" }
         }
     ]
